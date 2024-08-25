@@ -1,6 +1,6 @@
 # Crispy-Doom-Scripts
 
-Este script permite ejecutar Doom, Doom 2, Hexen, Heretic, Plutonia, TNT y Ultimate Doom desde cualquier directorio en Linux.
+Este script permite ejecutar Doom, Doom 2, Hexen, Heretic, Plutonia, TNT y Ultimate Doom desde cualquier directorio en Linux con el motor Crispy-Doom.
 
 ## Recomendaciones
 
