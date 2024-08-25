@@ -30,6 +30,4 @@ Este script permite ejecutar Doom, Doom 2, Hexen, Heretic, Plutonia, TNT y Ultim
 
 ## Aclaraciones
 
-## Aclaraciones
-
 Este script solo proporciona una forma de ejecutar Doom en Linux desde cualquier directorio; no incluye el juego en sí. Recomiendo adquirir el juego a través de Steam o GOG para obtener una copia legítima y compatible. Además, si deseas instalar Crispy Doom, te sugiero consultar la documentación en su repositorio de Github.
