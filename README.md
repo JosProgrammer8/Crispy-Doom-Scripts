@@ -23,7 +23,7 @@ Este script permite ejecutar Doom, Doom 2, Hexen, Heretic, Plutonia, TNT y Ultim
    Si deseas cambiar el directorio donde se encuentran los archivos WAD, abre el script con un editor de texto (como `nano`) y edita esta línea:
 
    ```bash
-   WADS_DIR="/home/user/Escritorio"
+   WADS_DIR="/home/jose/Documentos/Wads Doom"
    ```
    
   Guarda los cambios y vuelve a ejecutar el script.
